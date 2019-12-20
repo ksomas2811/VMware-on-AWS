@@ -1,0 +1,8 @@
+Below are the document detailing what are the requirement and installation process:
+https://docs.amazonaws.cn/en_us/storagegateway/latest/userguide/Requirements.html
+https://docs.aws.amazon.com/storagegateway/latest/userguide/create-gateway-file.html
+https://docs.aws.amazon.com/storagegateway/latest/userguide/Main_monitoring-gateways-common.html
+https://docs.aws.amazon.com/storagegateway/latest/userguide/monitoring-file-gateway.html
+
+Example Github link:
+https://github.com/aws-samples/aws-hybrid-storage-workshop/blob/master/scenario-2/README.md
